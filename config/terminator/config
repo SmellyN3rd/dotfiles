@@ -13,7 +13,7 @@
     background_type = transparent
     cursor_color = "#aaaaaa"
     foreground_color = "#ffffff"
-    palette = "#1c71d8:#cc0000:#1c71d8:#1a5fb4:#99c1f1:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#3584e4:#1a5fb4:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
+    palette = "#1a5fb4:#cc0000:#99c1f1:#e5a50a:#ffffff:#75507b:#34e2e2:#1a5fb4:#555753:#ef2929:#99c1f1:#f5c211:#99c1f1:#ad7fa8:#99c1f1:#99c1f1"
 [layouts]
   [[default]]
     [[[window0]]]
