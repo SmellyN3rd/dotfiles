@@ -10,8 +10,8 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-alias zshrc="nano ~/.zshrc"
-alias ohmyzsh="nano ~/.oh-my-zsh"
+alias zshrc="nvim ~/.zshrc"
+alias ohmyzsh="nvim ~/.oh-my-zsh"
 alias pacin="sudo pacman -S "
 alias pacrm="sudo pacman -R "
 alias update="sudo pacman -Syu "
