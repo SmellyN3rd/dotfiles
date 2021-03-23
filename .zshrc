@@ -8,6 +8,7 @@ plugins=(git)
 # DISABLE_AUTO_UPDATE="true"
 
 source $ZSH/oh-my-zsh.sh
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 alias zshrc="nano ~/.zshrc"
 alias ohmyzsh="nano ~/.oh-my-zsh"
