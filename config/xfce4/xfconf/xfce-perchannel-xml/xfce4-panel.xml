@@ -112,11 +112,10 @@
     </property>
     <property name="plugin-9" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance655"/>
     </property>
     <property name="plugin-8" type="string" value="whiskermenu"/>
     <property name="plugin-5" type="string" value="clock">
-      <property name="timezone" type="string" value="GMT-1"/>
+      <property name="timezone" type="string" value=""/>
       <property name="mode" type="uint" value="2"/>
     </property>
     <property name="plugin-35" type="string" value="actions">
