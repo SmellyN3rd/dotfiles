@@ -10,6 +10,7 @@
 // - set it within a user.js file in your profile.
 
 user_pref("accessibility.typeaheadfind.flashBar", 0);
+user_pref("browser.toolbar.bookmarks.visibility", "never");
 user_pref("app.normandy.first_run", false);
 user_pref("app.normandy.migrationsApplied", 10);
 user_pref("app.normandy.startupRolloutPrefs.print.tab_modal.enabled", true);
